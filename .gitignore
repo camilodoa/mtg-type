@@ -1,0 +1,5 @@
+__pycache__/*
+test/*
+train/*
+scryfall-default-cards.json
+.DS_Store
